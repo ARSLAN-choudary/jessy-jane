@@ -1,0 +1,106 @@
+.navbar-nav{
+    font-weight: 600;
+}
+.navbar-nav .nav-link:hover {
+    color: orange !important;
+  }
+  .navbar-nav .nav-link{
+    color: black;
+  }
+  .navbar{
+    background: transparent;
+  }
+  .fixed-top{
+    margin: 0%!important;
+    width: 100%;
+  }
+  .carousel-inner{
+    height: 500px;
+  }
+  #fixedText {
+    position: absolute;
+    left: 15%; 
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgb(34, 36, 45);
+    z-index: 2; 
+  }
+ .carousel-inner{
+  height: 400px;
+ }
+ .about{
+  margin-top: 7rem;
+  margin-bottom: 7rem;
+ }
+ .services{
+    padding-top: 6rem;
+ }
+ .pb5{
+  padding-bottom: 6rem;
+ }
+ .rowbg{
+  background-color:rgb(239, 243, 250);
+ }
+ .my5{
+  margin-top: 8rem;
+ }
+ .bttn{
+  margin-bottom: 8rem;
+ }
+ .secondary{
+  background-color:rgb(239, 243, 250);
+  border-radius: 0 0 100% 100% / 0 0 100px 100px;
+  
+ }
+ .imag{
+  width: 100px;
+  border-radius: 50px;
+ }
+ .cimg{
+  margin-top: 8rem;
+  height: auto;
+ }
+ ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px;
+  padding: 10px;
+  font-size: small;
+  opacity: 70%;
+}
+.all{
+  background-color: orange;
+  border-radius: 20px;
+}
+.row2{
+  margin-bottom: 8rem;
+}
+.cont2{
+  background-color: rgb(239, 243, 250);
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+}
+.textype{
+  margin-bottom: 5px;
+}
+.warning{
+  color: orange;
+}
+.margin{
+  margin-top: 4rem;
+}
+.below{
+  margin-bottom: 6rem;
+}
+footer{
+  margin-left: 0%;
+  margin-right: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+.bgdark{
+  background-color: rgb(53,64,78);
+}
